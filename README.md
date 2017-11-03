@@ -1,6 +1,6 @@
 # Altium Designer Open Libraries
 
-    This repository includes footprints and schematics for Altium Designer.
+    AltiumOpenLibs includes footprints and schematics for Altium Designer.
     Copyright (C) 2017  
 
     AltiumOpenLibs is free software: you can redistribute it and/or modify
