@@ -1,5 +1,6 @@
-# AltiumOpenLibs
-Altium Designer Open Libraries
+# Altium Designer Open Libraries
+
+## Components
 
 No | Manufacturer           | Manufacturer Part No              | Component Type
 ---| -------------          | --------------------------        | -------------
