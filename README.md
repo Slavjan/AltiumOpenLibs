@@ -163,6 +163,7 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 137 | STMICROELECTRONICS | STM32L072RBT6 | IC
 138 | RICHTEK | RT2808AGSP | IC
 139 | MOLEX | MOLEX_39301020 | CON
+140 | MULTICOMP | HTA5L60 | Diode
 
 
 
