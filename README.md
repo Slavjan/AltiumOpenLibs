@@ -160,6 +160,7 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 134 | AEL CRYSTALS | X32K768S019 | Crystal
 135 | TOREX | XC6210B332MR | IC
 136 | MICROCHIP | MIC5504-3.3YM5-T5 | IC
+137 | STMICROELECTRONICS | STM32L072RBT6 | IC
 
 
 
