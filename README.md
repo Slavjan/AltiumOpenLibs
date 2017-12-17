@@ -166,6 +166,7 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 140 | MULTICOMP | HTA5L60 | Diode
 141 | MICROCHIP | MIC2790L-04VD6-T5 | IC
 142 | MURATA | 1274AS-H-150M=P3 | Inductor
+143 | ABRACOM | ABM8G-12.000MHZ-4Y-T3 | Crustal
 
 
 
