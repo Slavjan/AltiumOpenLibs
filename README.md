@@ -167,6 +167,7 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 141 | MICROCHIP | MIC2790L-04VD6-T5 | IC
 142 | MURATA | 1274AS-H-150M=P3 | Inductor
 143 | ABRACOM | ABM8G-12.000MHZ-4Y-T3 | Crustal
+144 | VISHAY | SIP32510DT-T1-GE3 | IC
 
 
 
