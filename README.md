@@ -164,6 +164,8 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 138 | RICHTEK | RT2808AGSP | IC
 139 | MOLEX | MOLEX_39301020 | CON
 140 | MULTICOMP | HTA5L60 | Diode
+141 | MICROCHIP | MIC2790L-04VD6-T5 | IC
+142 | MURATA | 1274AS-H-150M=P3 | Inductor
 
 
 
