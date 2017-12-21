@@ -168,6 +168,11 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 142 | MURATA | 1274AS-H-150M=P3 | Inductor
 143 | ABRACOM | ABM8G-12.000MHZ-4Y-T3 | Crustal
 144 | VISHAY | SIP32510DT-T1-GE3 | IC
+145 | ON SEMICONDUCTOR | NC7WZ125K8X | IC
+146 | NEXPERIA | 74LVC245APW,118 | IC
+147 | TEXAS INSTRUMENTS | BQ25601 | IC
+148 | MURATA | FDSD0412-H-1R0M=P3 | Inductor
+149 | MOLEX | MicroSD_47219-2001 | Connector
 
 
 
