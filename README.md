@@ -178,5 +178,5 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 152 | TAIWAN SEMICONDUCTOR | SK56C | Diode
 153 | BOURNS | SRR1280-6R8Y | Inductor
 154 | STMICROELECTRONICS | SMBJ48A-TR | Diode
-
+155 | TEXAS INSTRUMENTS | TPS73701DCQ | IC
 
