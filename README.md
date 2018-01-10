@@ -176,5 +176,6 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 150 | MICROCHIP | ATSAM4S4C | IC
 151 | TEXAS INSTRUMENTS | TPS54340DDA | IC
 152 | TAIWAN SEMICONDUCTOR | SK56C | Diode
+153 | BOURNS | SRR1280-6R8Y | Inductor
 
 
