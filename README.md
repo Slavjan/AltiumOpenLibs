@@ -179,4 +179,5 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 153 | BOURNS | SRR1280-6R8Y | Inductor
 154 | STMICROELECTRONICS | SMBJ48A-TR | Diode
 155 | TEXAS INSTRUMENTS | TPS73701DCQ | IC
+156 | SPANSION | S25FL032P0XNFI011 | IC
 
