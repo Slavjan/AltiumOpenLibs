@@ -180,4 +180,5 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 154 | STMICROELECTRONICS | SMBJ48A-TR | Diode
 155 | TEXAS INSTRUMENTS | TPS73701DCQ | IC
 156 | SPANSION | S25FL032P0XNFI011 | IC
+157 | VISHAY | VO617A-2X017T | IC
 
