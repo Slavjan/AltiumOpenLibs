@@ -184,3 +184,4 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 158 | - | - | Rectangular Connector Right Angle 4.2mm 16 pins
 159 | - | - | Header 1.27mm 6pin
 160 | INFINEON | BTS3410GXUMA1 | IC
+161 | - | - | Rectangular Connector Right Angle 4.2mm 14 pins
