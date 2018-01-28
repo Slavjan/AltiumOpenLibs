@@ -186,3 +186,4 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 160 | INFINEON | BTS3410GXUMA1 | IC
 161 | - | - | Rectangular Connector Right Angle 4.2mm 14 pins
 162 | MICROCHIP | MCP6004-I/ST | IC
+163 | KINGBRIGHT | KPT-1608EC | LED
