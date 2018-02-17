@@ -188,3 +188,4 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 162 | MICROCHIP | MCP6004-I/ST | IC
 163 | KINGBRIGHT | KPT-1608EC | LED
 164 | BOURNS | CDSOT23-T03C | Diode
+165 | ON SEMICONDUCTOR | SZMMSZ3V3T1G | Diode
