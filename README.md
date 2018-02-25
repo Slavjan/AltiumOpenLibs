@@ -190,3 +190,4 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 164 | BOURNS | CDSOT23-T03C | Diode
 165 | ON SEMICONDUCTOR | SZMMSZ3V3T1G | Diode
 166 | Wurth Electronics | 662012231722 | Connector
+167 | ISSI | IS25LP032D-JBLE-TR | IC
