@@ -192,3 +192,5 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 166 | Wurth Electronics | 662012231722 | Connector
 167 | ISSI | IS25LP032D-JBLE-TR | IC
 168 | ON SEMICONDUCTOR | SMUN5235DW1T1G | Dual NPN Transistor
+169 | MULTICOMP | SS110B | Diode
+170 | DIODES INC | SDM2100S1F-7 | Diode
