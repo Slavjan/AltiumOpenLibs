@@ -195,3 +195,4 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 169 | MULTICOMP | SS110B | Diode
 170 | DIODES INC | SDM2100S1F-7 | Diode
 171 | DIODES INC | AP3417CKTR-G1 | IC
+172 | Taiyo Yuden | NRH3012T2R2MN | Inductor
