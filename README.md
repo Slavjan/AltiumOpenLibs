@@ -197,3 +197,4 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 171 | DIODES INC | AP3417CKTR-G1 | IC
 172 | Taiyo Yuden | NRH3012T2R2MN | Inductor
 173 | STMICROELECTRONICS | STM32F030CCT6 | IC
+174 | DORJI | DRF1276G | Module
