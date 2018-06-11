@@ -199,3 +199,4 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 173 | STMICROELECTRONICS | STM32F030CCT6 | IC
 174 | DORJI | DRF1276G | Module
 175 | - | - | SMA End Launch Connector PCB
+176 | Microchip | ATSAMD20E18A-AN | IC
