@@ -200,3 +200,4 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 174 | DORJI | DRF1276G | Module
 175 | - | - | SMA End Launch Connector PCB
 176 | Microchip | ATSAMD20E18A-AN | IC
+177 | HOPERF ELECTRONIC | RFM95 | MODULE
