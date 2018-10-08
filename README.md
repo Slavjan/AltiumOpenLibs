@@ -201,3 +201,4 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 175 | - | - | SMA End Launch Connector PCB
 176 | Microchip | ATSAMD20E18A-AN | IC
 177 | HOPERF ELECTRONIC | RFM95 | MODULE
+178 | Microchip | ATMEGA4809-AFR | IC
