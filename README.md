@@ -202,3 +202,4 @@ No | Manufacturer           | Manufacturer Part No              | Component Type
 176 | Microchip | ATSAMD20E18A-AN | IC
 177 | HOPERF ELECTRONIC | RFM95 | MODULE
 178 | Microchip | ATMEGA4809-AFR | IC
+179 | MULTICOMP | MCSJK-7U-16.00-10-10-80-B-10| Crystal
